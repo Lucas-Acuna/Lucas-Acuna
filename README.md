@@ -1,37 +1,46 @@
-<h1 align="center">Hola, soy Lucas Acuña 👋</h1>
+# 👋 Hola, soy Lucas Acuña
 
-🎓 Formación en Data Science | 📍 Buenos Aires, Argentina  
-🔍 Buscando nuevas oportunidades como **Analista de Datos**
-
----
-
-### 📊 Sobre mí
-
-Soy un apasionado del análisis de datos con formación técnica y enfoque práctico.  
-Me gusta transformar datos en decisiones y encontrar historias donde otros solo ven números.
+📍 Buenos Aires, Argentina  
+📊 Formación en Data Science | Apasionado por el análisis visual  
+🔎 Buscando nuevas oportunidades como *Analista de Datos*
 
 ---
 
-### 🧰 Tecnologías y herramientas
+## 🧠 Sobre mí
 
-- 📊 Power BI  
-- 🐍 Python (Pandas, Matplotlib, Seaborn)  
-- 💾 MySQL  
-- 📁 Excel Avanzado  
-- ☁️ AWS (nivel inicial)  
-- 📈 Jupyter Notebook
+Soy un entusiasta del análisis de datos con enfoque técnico y mirada creativa. Me gusta *convertir datos en historias visuales* que impacten, conecten y generen valor real.  
+Actualmente me encuentro en proceso de crecimiento profesional, trabajando en proyectos que combinan *cultura pop, espectáculos masivos y datos*.
 
 ---
 
-### 📁 Proyectos destacados
+## 🛠 Tecnologías y herramientas
 
-🔹 [Impacto de Madonna vs Lady Gaga en Río](https://github.com/Lucas-Acuna/madonna-vs-gaga-impacto)  
-Análisis visual del impacto económico y mediático de dos conciertos masivos.  
-> Incluye visualización interactiva en Power BI Service.
+- *Power BI* (Desktop + Service)
+- *Python* (Pandas, Matplotlib, Seaborn)
+- *MySQL*
+- *Excel Avanzado*
+- *Jupyter Notebook*
+- *AWS Educate* (nivel inicial)
 
 ---
 
-### 🌐 Conectemos
+## 🌟 Proyectos destacados
 
-[LinkedIn](https://www.linkedin.com/in/lucas-acuna/)  
-📫 lucasdeacuna@gmail.com
+### 🎤 [Impacto de Madonna vs Lady Gaga en Río](https://github.com/Lucas-Acuna/madonna-vs-gaga-impacto)
+Análisis visual del impacto económico y mediático de dos conciertos gratuitos masivos.  
+Incluye informe interactivo en Power BI Service.
+
+### 🎶 [Lollapalooza Argentina 2025](https://github.com/Lucas-Acuna/lollapalooza-argentina-2025)  
+Análisis exploratorio del festival musical más convocante del año.  
+Exploro la relación entre *popularidad en Spotify, **género musical* y *asistencia del público*.
+
+---
+
+## 📬 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/lucas-acuna/)  
+- 📧 lucasdeacuna@gmail.com  
+
+---
+
+💡 Este perfil forma parte de un enfoque temático donde combino cultura pop, análisis visual y storytelling basado en datos.
